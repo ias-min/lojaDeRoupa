@@ -1,0 +1,107 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.centralizar {
+    background-color: #7140C0;
+    width: 100%;
+    display: flex;
+   
+}
+
+.logo{
+    width: 80px;
+    border-radius: 100px;
+    padding: 15px;
+    margin-left: 100px;
+}
+
+#barra-de-pesquisa {
+    border: #ffffff;
+    background-color: #ffffff;
+    border-radius: 20px;
+    width: 600px;
+    height: 35px  ;
+    margin-top: 50px;
+    margin: auto;
+    margin-left: 350px;
+    padding: 5px;
+}
+
+.lupa {
+    width: 20px;
+    margin: auto;
+    margin-left: -210px;
+}
+
+.favorito {
+    width: 30px;
+    margin: auto;
+    margin-left: 10px;
+}
+
+.carrinho {
+    width: 30px;
+    margin: auto; 
+    margin-left: -30px;   
+}
+
+.perfil {
+    width: 30px;
+    margin: auto;
+    margin-left: -30px;
+}
+
+.imagens-das-bolinhas {
+    background-color: #CFBAF0;
+    padding: 20px;
+}
+
+.feminina {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 400px;
+}
+
+.masculino {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 60px;
+}
+
+.infantil {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 60px;
+}
+
+.beleza {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 60px;
+}
+
+.esportivo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 60px;
+}
+
+.acessorios {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 60px;
+}
+
+.ofertas {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin-left: 60px;
+}
