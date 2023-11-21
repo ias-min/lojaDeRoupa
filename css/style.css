@@ -52,7 +52,7 @@
     margin-left: -30px;
 }
 
-.imagens-das-bolinhas {
+.destaques {
     background-color: #CFBAF0;
     padding: 20px;
 }
@@ -66,7 +66,7 @@
 
 .masculino {
     width: 80px;
-    height: 80px;
+    margin-left: 410px;
     border-radius: 50px;
     margin-left: 60px;
 }
@@ -104,4 +104,45 @@
     height: 80px;
     border-radius: 50px;
     margin-left: 60px;
+}
+
+.palavras {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
+
+#feminina {
+    margin-left: 425px;
+    margin-top: -20px;
+}
+
+#masculino {
+    margin-left: 572px;
+    margin-top: -18px;
+}
+
+#infantil {
+    margin-left: 715px;
+    margin-top: -18px;
+}
+
+#beleza {
+    margin-left: 860px;
+    margin-top: -18px;
+}
+
+#esportivo {
+    margin-left: 1008px;
+    margin-top: -18px; 
+}
+
+#acessorios {
+    margin-left: 1146px;
+    margin-top: -18px;
+}
+
+#ofertas {
+    margin-left: 1300px;
+    margin-top: -18px;
 }
