@@ -172,9 +172,19 @@
 }
 
 #frete {
+    font-family: gotham-bold;
+    font-size: 30px;
+}
+
+#frete {
     font-family: gotham-light;
     font-size: 30px;
-    margin-left: 60px;
+}
+
+
+#frete {
+    font-family: gotham-bold;
+    font-size: 30px;
 }
 
 #cumpo {
