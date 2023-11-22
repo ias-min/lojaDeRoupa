@@ -3,6 +3,16 @@
     margin: 0px;
 }
 
+@font-face {
+    font-family: gotham-light;
+    src: url("../fontes/front-end-code-challenge-smartsite__material_fonts\ at\ master\ ·\ bioritmo_front-end-code-challenge-smartsite\ ·\ GitHub.html");
+}
+
+@font-face {
+    font-family: gotham-bold;
+    src: url("../fonts/gotham-bold.woff2");
+}
+
 .centralizar {
     background-color: #7140C0;
     width: 100%;
@@ -155,6 +165,7 @@
 }
 
 #frete {
+    font-family: gotham-light;
     font-size: 30px;
     margin-left: 60px;
 }
