@@ -119,47 +119,49 @@
 
 .palavras {
     display: flex;
-    justify-content: center;
-    align-items: center;
+
+
 }
 
 #feminina {
     font-family: gotham-bold;
-    
+    margin-left: 432px;
     margin-top: -25px;
 }
 
 #masculino {
     font-family: gotham-bold;
-
+    margin-left:  69px;
     margin-top: -25px;
 }
 
 #infantil {
     font-family: gotham-bold;
- 
+    margin-left:  75px;
     margin-top: -25px;
 }
 
 #beleza {    
     font-family: gotham-bold;
- 
+    margin-left:  88px;
     margin-top: -25px;
 }
 
 #esportivo {
     font-family: gotham-bold;
-
+    margin-left:  78px;
     margin-top: -25px;
 }
 
 #acessorios {
     font-family: gotham-bold;
+    margin-left: 60px;
     margin-top: -25px;
 }
 
 #ofertas {
     font-family: gotham-bold;
+    margin-left: 70px;
     margin-top: -25px;
 }
 
