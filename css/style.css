@@ -150,6 +150,7 @@
 
 .barra-de-frete {
     background-color: #7140C0;
+    display: flex;
     padding: 15px;
 }
 
