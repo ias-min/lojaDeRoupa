@@ -285,3 +285,19 @@ body {
     margin-left: 300px;
     padding-top: 40px;
 }
+
+.black {
+    font-family: gotham-bold;
+    font-size: 100px;
+    color: #7140C0;
+    margin-left: 900px;
+    margin-top: -500px;
+}
+
+.friday {
+    font-family: gotham-bold;
+    font-size: 100px;
+    color: #7140C0;
+    margin-left: 970px;
+    margin-top: -10px;
+}
