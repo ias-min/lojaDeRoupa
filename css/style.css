@@ -289,7 +289,6 @@ body {
 .black {
     font-family: gotham-bold;
     font-size: 100px;
-    color: #7140C0;
     margin-left: 900px;
     margin-top: -500px;
 }
@@ -297,7 +296,17 @@ body {
 .friday {
     font-family: gotham-bold;
     font-size: 100px;
-    color: #7140C0;
     margin-left: 970px;
     margin-top: -10px;
+}
+
+.blackfriday{
+    color: #7140C0;
+    animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+    50% { 
+        color: white; 
+    }
 }
