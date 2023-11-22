@@ -125,42 +125,42 @@
 
 #feminina {
     font-family: gotham-bold;
- 
-    margin-top: -20px;
+    
+    margin-top: -25px;
 }
 
 #masculino {
     font-family: gotham-bold;
 
-    margin-top: -20px;
+    margin-top: -25px;
 }
 
 #infantil {
     font-family: gotham-bold;
  
-    margin-top: -20px;
+    margin-top: -25px;
 }
 
 #beleza {    
     font-family: gotham-bold;
  
-    margin-top: -20px;
+    margin-top: -25px;
 }
 
 #esportivo {
     font-family: gotham-bold;
 
-    margin-top: -20px;
+    margin-top: -25px;
 }
 
 #acessorios {
     font-family: gotham-bold;
-    margin-top: -20px;
+    margin-top: -25px;
 }
 
 #ofertas {
     font-family: gotham-bold;
-    margin-top: -20px;
+    margin-top: -25px;
 }
 
 .barra-de-frete {
@@ -171,39 +171,46 @@
 
 #frete {
     font-family: gotham-bold;
+    color: #ffffff;
     font-size: 30px;
 }
 
 #frete2 {
     font-family: gotham-light;
+    color: #ffffff;
     font-size: 30px;
 }
 
 
 #frete3 {
     font-family: gotham-bold;
+    color: #ffffff;
     font-size: 30px;
 }
 
 #cumpo {
     font-family: gotham-light;
+    color: #ffffff;
     font-size: 30px;
     margin-left: 90px;
 }
 
 #cumpo1 {
     font-family: gotham-bold;
+    color: #ffffff;
     font-size: 30px;
 }
 
 #cumpo2 {
     font-family: gotham-light;
+    color: #ffffff;
     font-size: 30px;
 }
 
 
 #cumpo3 {
     font-family: gotham-bold;
+    color: #ffffff;
     font-size: 30px;
 }
 
