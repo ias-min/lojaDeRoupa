@@ -188,8 +188,25 @@
 }
 
 #cumpo {
+    font-family: gotham-light;
     font-size: 30px;
     margin-left: 90px;
+}
+
+#cumpo1 {
+    font-family: gotham-bold;
+    font-size: 30px;
+}
+
+#cumpo2 {
+    font-family: gotham-light;
+    font-size: 30px;
+}
+
+
+#cumpo3 {
+    font-family: gotham-bold;
+    font-size: 30px;
 }
 
 .imagem {
