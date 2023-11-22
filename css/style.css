@@ -164,3 +164,12 @@
     margin-left: 60px;
 }
 
+.imagem {
+    display: flexbox;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem-do-desconto {
+    width: 50px;
+}
