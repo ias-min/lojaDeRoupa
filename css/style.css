@@ -3,6 +3,10 @@
     margin: 0px;
 }
 
+body {
+    background-color: #EEE3FF;
+}
+
 @font-face {
     font-family: gotham-light;
     src: url("../fontes/gotham-light\ \(2\).woff2");
@@ -75,11 +79,27 @@
     margin-left: 400px;
 }
 
+.feminina {
+    transition: 0.2s ease-in-out;
+} 
+
+.feminina:hover{
+    border:solid 1px #7140C0;
+}
+
 .masculino {
     width: 80px;
     margin-left: 410px;
     border-radius: 50px;
     margin-left: 60px;
+}
+
+.masculino {
+    transition: 0.2s ease-in-out;
+} 
+
+.masculino:hover{
+    border:solid 1px #7140C0;
 }
 
 .infantil {
@@ -89,11 +109,27 @@
     margin-left: 60px;
 }
 
+.infantil {
+    transition: 0.2s ease-in-out;
+} 
+
+.infantil:hover{
+    border:solid 1px #7140C0;
+}
+
 .beleza {
     width: 80px;
     height: 80px;
     border-radius: 50px;
     margin-left: 60px;
+}
+
+.beleza {
+    transition: 0.2s ease-in-out;
+} 
+
+.beleza:hover{
+    border:solid 1px #7140C0;
 }
 
 .esportivo {
@@ -103,6 +139,14 @@
     margin-left: 60px;
 }
 
+.esportivo {
+    transition: 0.2s ease-in-out;
+} 
+
+.esportivo:hover{
+    border:solid 1px #7140C0;
+}
+
 .acessorios {
     width: 80px;
     height: 80px;
@@ -110,11 +154,27 @@
     margin-left: 60px;
 }
 
+.acessorios {
+    transition: 0.2s ease-in-out;
+} 
+
+.acessorios:hover{
+    border:solid 1px #7140C0;
+}
+
 .ofertas {
     width: 80px;
     height: 80px;
     border-radius: 50px;
     margin-left: 60px;
+}
+
+.ofertas {
+    transition: 0.2s ease-in-out;
+} 
+
+.ofertas:hover{
+    border:solid 1px #7140C0;
 }
 
 .palavras {
@@ -222,6 +282,6 @@
 
 .imagem-do-desconto {
     width: 500px;
-    margin-left: 40px;
-
+    margin-left: 300px;
+    padding-top: 40px;
 }
