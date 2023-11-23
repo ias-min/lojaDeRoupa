@@ -310,3 +310,13 @@ body {
         color: white; 
     }
 }
+
+.comAte {
+    display: flex;
+}
+
+.ate {
+    font-size: 20px;
+    font-family: gotham-light;
+    color: #C68DE9;
+}
