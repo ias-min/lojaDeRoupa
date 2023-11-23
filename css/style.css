@@ -317,7 +317,55 @@ body {
 
 .ate {
     font-size: 20px;
-    font-family: gotham-light;
-    margin-top: 100px;
+    font-family: gotham-bold;
+    margin-left: 950px;
+    margin-top: 15px;
     color: #C68DE9;
+}
+
+.porcentagem {
+    display: flex;
+}
+
+.porcento {
+    font-family: gotham-bold;
+    font-size: 150px;
+    color: #000000;
+    margin-top: 8px;
+    margin-left: 950px;
+}
+
+.retangulo {
+    display: flex;
+    border: 5px solid #7140C0;
+    height: 90px;
+    width: 20px;
+    margin-left: 25px;
+    padding-left: 30px;
+    margin-top: 50px;
+}
+
+.off {
+    font-family: gotham-bold;
+    font-size: 35px;
+    margin-left: -17px;
+    transform: rotate(270deg);
+}
+
+.retanguloAproveita {
+    display: flex;
+    background-color: #ffffff;
+    border: 5px solid #ffffff;
+    height: 30px;
+    width: 15px;
+    margin-left: 1232px;
+    padding-left: 110px;
+    margin-top: -25px;
+}
+
+.aproveita {
+    font-family: gotham-bold;
+    font-size: 20px;
+    color: #000000;
+    margin-left: -93px;
 }
