@@ -420,3 +420,9 @@ body {
     width: 130px;
     margin-top: 10px;
 }
+
+.estrela {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
