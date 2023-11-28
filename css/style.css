@@ -387,7 +387,7 @@ body {
     border-radius: 20px;
     border: 5px solid #7140C0;
     background-color: #7140C0;
-    height: 420px;
+    height: 400px;
     width: 320px;
     margin-left: 100px;
     padding-left: 30px;
@@ -424,5 +424,6 @@ body {
 .estrela {
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    margin-left: 210px;
+    margin-top: -10px;
 }
